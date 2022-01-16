@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(46, 44, 173);
+    text-align: center;
+}
+
+
+#H1{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(197, 38, 99);
+}
+
+#H2{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(162, 192, 29);
+}
+
+p{
+    color: salmon;
+    font-weight: bolder;
+    font-size: 20px;
+} 
